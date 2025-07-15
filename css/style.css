@@ -11,3 +11,25 @@ body {
     font-size: 12px;
     background-color: #e2e2e2;
 }
+
+/* banner pagina */
+
+.banner {
+    background-color: white;
+    height: 90px;
+    width: 100%;
+}
+
+#logo {
+    width: 70px;
+    height: 70px;
+    vertical-align: middle;
+    margin: 12px;
+}
+
+h1 {
+    display: inline;
+    vertical-align: middle;
+    font-size: 45px;
+    font-weight: 700;
+}
